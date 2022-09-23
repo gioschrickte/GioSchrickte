@@ -1,16 +1,27 @@
-### Hi there 👋
+## Sobre mim de Giovanni Schrickte
 
-<!--
-**GioSchrickte/GioSchrickte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Informações: 
+🏠 - Curitiba / PR
 
-Here are some ideas to get you started:
+🏫 - Pontifícia Universidade Católica do Paraná | Ensino Médio Técnico | 1º Ano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙎‍♂️ - Homem | 15 anos
+
+
+#### Conhecimentos:
+
+🐍 - Breve em **Python**
+
+☕ - Breve em **JavaScript**
+
+💡 - Avançado em **Portugol**
+
+🔗 - Algoritmos
+
+#️⃣ - *Word*, *Excel*, *Powerpoint*
+
+📷 - Photoshop
+
+🐬 - Banco de Dados **SQL**
+
+### 
