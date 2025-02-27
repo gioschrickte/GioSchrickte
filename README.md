@@ -1,27 +1,15 @@
-## Sobre mim de Giovanni Schrickte
+## About me - Giovanni Schrickte
 
-### Informações: 
-🏠 - Curitiba / PR
+### Informações / About me: 
+🏠 - Curitiba - Paraná - Brazil
 
-🏫 - Pontifícia Universidade Católica do Paraná | Ensino Médio Técnico | 1º Ano
+🏫 - Universidade Tecnológica Federal do Paraná (UTFPR) - 1º periodo / 1st year
 
-🙎‍♂️ - 18 anos
+🙎‍♂️ - 17y, male
 
-
-#### Conhecimentos:
-
-🐍 - Breve em **Python**
-
-☕ - Breve em **JavaScript**
-
-💡 - Avançado em **Portugol**
-
-🔗 - Algoritmos
-
-#️⃣ - *Word*, *Excel*, *Powerpoint*
-
-📷 - Photoshop
-
-🐬 - Banco de Dados **SQL**
-
+#### Conhecimentos / Knowledgements:
+- Ensino médio técnico em tecnologia - TECPUC (PUCPR)
+- Inglês fluente - Cambridge C1 - Cultura Inglesa
+- (PT) Algoritmos;  Desing gráfico (Photoshop, Figma);  Desenvolvimentos de websites (HTML, CSS, JavaScript, Bootstrap);  Banco de dados e tabelas (SQL / NoSQL / Excel);  Redes e servidores (Linux, Microsoft Azure);  Linguagens de programação (C++, Python).
+- (EN) Algorithms; Graphic Design; Website development; Database; Server Networks; Coding languages.
 ### 
