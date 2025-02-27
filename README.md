@@ -5,7 +5,7 @@
 
 🏫 - Pontifícia Universidade Católica do Paraná | Ensino Médio Técnico | 1º Ano
 
-🙎‍♂️ - Homem | 15 anos
+🙎‍♂️ - 18 anos
 
 
 #### Conhecimentos:
